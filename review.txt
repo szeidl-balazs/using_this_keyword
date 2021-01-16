@@ -1,0 +1,12 @@
+Object's function call
+objects.js:4 35
+objects.js:16 Object's function's reference call
+objects.js:4 35
+classes.js:17 Simple function declaration in class
+classes.js:5 35
+classes.js:19 Arrow function declaration in class
+classes.js:5 35
+eventListener.js:9 Arrow function output: 
+eventListener.js:10 <button class=​"click-btn">​Event Listener​</button>​
+eventListener.js:20 Declared function output:
+eventListener.js:21 <button class=​"click-btn">​Event Listener​</button>​
